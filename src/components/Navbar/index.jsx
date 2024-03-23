@@ -118,7 +118,7 @@ const Navbar = () => {
     <Nav>
         <NavContainer>
             <NavLogo>
-                <a 
+                <a href="/"
                 style={
                     {
                         display: "flex",
