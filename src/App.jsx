@@ -281,7 +281,7 @@ const App = () => {
                 <Grid item xs={12} md={5} sx={{ display: 'flex', justifyContent: 'center' }}>
                   <Avatar
                     alt="Shashank Profile"
-                    src="/profile_pic.jpg"
+                    src="https://cdn.shashankag.co.in/0:/profile.jpg"
                     sx={{ width: 450, height: 455, border: '3px solid', borderColor: 'primary.main' }}
                   />
                 </Grid>
